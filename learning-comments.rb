@@ -1,0 +1,1 @@
+Puts "better than copy-paste!"
